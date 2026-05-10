@@ -4,15 +4,12 @@ A comprehensive AI/ML + LLM/RAG project for detecting potential **Fraud, Waste, 
 
 This project is adapted from a medical chatbot template, but redesigned for healthcare claims analytics, CMS policy retrieval, doctor-note review, anomaly detection, graph-based risk scoring, and multi-agent AI orchestration.
 
-## Resume / GitHub Positioning
 
 **Project Title:** CMS Fraud, Waste, and Abuse Detection Using Multi-Agent RAG, Claims Analytics, and Explainable AI
 
-**Resume Bullet:**
-
 > Developed a multi-agent RAG-based AI chatbot for CMS Medicare and Medicaid FWA detection, integrating claims analytics, provider anomaly detection, doctor-note NLP, vector search, graph-based risk scoring, and explainable ML to flag suspicious billing, duplicate claims, DME risk, upcoding, and unsupported medical necessity with evidence-grounded responses and human-review guardrails.
 
-## Why This Project Is Strong
+## Advantages of This Project
 
 - Uses CMS-style claims, provider, beneficiary, and doctor-note data.
 - Includes policy PDFs in `data/cms_policy/` for RAG.
